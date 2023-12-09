@@ -9,3 +9,12 @@
 # 2.Manage the state in my assignment project
 
 First of all I complete the header part in my project .Then I use three states within the app.jsx . And in that app.jsx gives 3-4 conditions.The event handler i send to the course component and the creditRemaining i send to the bookmarks component.Then I show the data one by one in Bookmark.
+
+# Technology That I am used---
+* Html5
+* css3
+* tailwindcss
+* javascript
+* react.js
+* daisyui
+* VsCode
